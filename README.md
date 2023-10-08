@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format.Gave us opportunity to combine all our learnings and implement these in our own way.We Clean,Analyse and make Predictions.
+The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. Gave us opportunity to combine all our learnings and implement these in our own way. We Clean,Analyse and make Predictions.
 Make this presentable using visualizations,create attractive and interactive Dashboards to impress stackholders and get the meaningful conclusion from it.This is a subset of the challenges we have to face while analysing and presenting real world problem. On the top of it we learn to work in a group which was so exciting.
 
 ## Process
